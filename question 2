@@ -1,0 +1,10 @@
+Positive Case
+Test Case	Expectation
+User melakukan klik button buy now	Menampilkan halaman shopping cart
+User melakukan klik SIGN UP	Menampilkan halaman Register
+Negative Case
+Test Case	Expectation
+User tidak menginputkan salah satu field pada form shopping cart lalu klik button check out	Menampilkan validasi 
+“Sorry, something went wrong.
+Please retry your purchase.”
+User melakukan input field password kurang dari 8 digit pada form register	Menampilkan validasi
