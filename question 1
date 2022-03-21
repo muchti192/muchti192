@@ -1,0 +1,12 @@
+Test Case	
+User melakukan pengecekan ID Delivery Service sesuai dengan database menggunakan POSTMAN	Sample:
+Expectation
+001 - TIKI
+002 - REX
+003 - JNE
+004 - POS
+
+Test Case
+User melakukan pengecekan TRX_ID menggunakan POSTMAN	Query yang dikirimkan ke DB dan respon yang ditampilkan sesuai denga data du database
+Expectation
+TRX_ID, ADDRESS_SHIP, DATE_ORDER, SELLER NAME, DELIVERY_SERVICE
